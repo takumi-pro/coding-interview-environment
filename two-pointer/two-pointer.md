@@ -16,5 +16,5 @@
 > 2. 区間 [left, right) が「条件」を満たすなら、それを含む区間も「条件」を満たす
 
 ## 問題例
-- [3Sum - LeetCode](https://leetcode.com/problems/3sum/)
 - [AOJ Course The Number of Windows - AOJ](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_3_C&lang=jp)
+  - [コード](./the-number-of-windows.cpp)
