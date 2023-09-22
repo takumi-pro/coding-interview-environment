@@ -1,7 +1,7 @@
 # coding-interview environment
-コーディング試験のためのc++環境
+コーディング試験のためのc++環境と汎用プログラム集
 
-## 使用方法
+## 環境構築
 
 ### Dev Containersのインストール
 VSCodeの拡張機能「[DevContainers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)」をインストールする。
@@ -13,3 +13,6 @@ VSCodeの拡張機能「[DevContainers](https://marketplace.visualstudio.com/ite
 
 ### プログラム実行
 `main.cpp`を編集して`make run`コマンドを実行することで標準出力に出力される
+
+## アルゴリズムとデータ構造実装例・ユーティリティ
+- [しゃくとり法（two-pointer）](./two-pointer/)
