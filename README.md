@@ -14,5 +14,4 @@ VSCodeの拡張機能「[DevContainers](https://marketplace.visualstudio.com/ite
 ### プログラム実行
 `main.cpp`を編集して`make run`コマンドを実行することで標準出力に出力される
 
-## アルゴリズムとデータ構造実装例・ユーティリティ
-- [しゃくとり法（two-pointer）](./two-pointer/)
+## [アルゴリズムとデータ構造実装例・ユーティリティ](./util.md)
