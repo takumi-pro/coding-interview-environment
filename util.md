@@ -148,4 +148,5 @@ int main() {
 
 
 ## アルゴリズムとデータ構造
-- [しゃくとり法（two-pointer）](./two-pointer/)
+- [動的計画法（dynamic-programming）](./dynamic-programming/dynamic-programming.md)
+- [しゃくとり法（two-pointer）](./two-pointer/two-pointer.md)
