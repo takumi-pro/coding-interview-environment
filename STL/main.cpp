@@ -6,11 +6,15 @@ using ll = long long;
 
 int main()
 {
-  int n, q;
-  cin >> n >> q;
-  vector<vector<int>> u(q, vector<int>(2));
+  set<int> S;
+  S.insert(10);
+  S.insert(20);
+  S.insert(40);
+  S.insert(10);
 
-  rep(i, q)
+  // 全要素の表示
+  for (auto itr = S.begin(); itr != S.end(); ++itr)
   {
+    cout << *itr << endl;
   }
 }
