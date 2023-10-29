@@ -128,4 +128,4 @@ int main() {
 - [しゃくとり法（two-pointer）](./two-pointer/two-pointer.md)
 - [二分探索](./binary-search/binary-search.md)
 
-## [STL機能](./STL/stl.md)
+## [STL機能](../STL/stl.md)
